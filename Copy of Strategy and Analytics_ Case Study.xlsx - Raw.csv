@@ -1,0 +1,1501 @@
+Employee ID,Region,Segment,Team ID,Role,Introductions,Sales Units
+1,Europe,Private Equity,93,Manager,22,8.49
+2,Europe,Private Equity,66,Manager,11,3.94
+3,Europe,Private Equity,65,Manager,23,6.84
+4,Asia,Capital Markets,111,Manager,26,8.92
+5,Europe,Advisory,79,Manager,27,7.94
+6,Europe,Private Equity,80,Manager,12,4.22
+7,Europe,Capital Markets,63,Manager,18,8.78
+8,Asia,Capital Markets,115,Manager,22,7.76
+9,Americas,Private Equity,48,Manager,18,7.13
+10,Asia,Corporate,123,Manager,19,5.98
+11,Asia,Private Equity,149,Manager,21,9.08
+12,Asia,Corporate,140,Manager,19,7.00
+13,Americas,Private Equity,43,Manager,19,7.25
+14,Asia,Capital Markets,138,Manager,21,9.48
+15,Europe,Advisory,88,Manager,19,8.69
+16,Asia,Private Equity,149,Manager,32,9.19
+17,Americas,Capital Markets,24,Manager,15,5.86
+18,Europe,Corporate,90,Manager,19,8.10
+19,Asia,Capital Markets,143,Manager,22,8.47
+20,Europe,Private Equity,95,Manager,6,4.06
+21,Asia,Private Equity,134,Manager,24,7.12
+22,Americas,Private Equity,11,Manager,18,7.69
+23,Europe,Capital Markets,67,Manager,30,8.88
+24,Asia,Corporate,130,Manager,23,10.73
+25,Americas,Capital Markets,2,Manager,17,7.17
+26,Europe,Capital Markets,63,Manager,24,9.34
+27,Americas,Capital Markets,25,Manager,20,9.79
+28,Americas,Advisory,6,Manager,12,3.97
+29,Americas,Advisory,21,Manager,19,6.98
+30,Americas,Advisory,35,Manager,24,8.60
+31,Asia,Capital Markets,138,Manager,22,9.81
+32,Asia,Corporate,130,Manager,21,10.75
+33,Europe,Corporate,90,Manager,25,8.20
+34,Europe,Private Equity,92,Manager,29,9.00
+35,Asia,Corporate,130,Manager,17,10.55
+36,Asia,Corporate,126,Manager,13,5.02
+37,Americas,Corporate,26,Manager,17,8.94
+38,Americas,Advisory,21,Manager,15,6.87
+39,Asia,Advisory,102,Manager,25,7.85
+40,Asia,Capital Markets,115,Manager,20,8.12
+41,Asia,Capital Markets,121,Manager,13,5.21
+42,Americas,Advisory,27,Manager,28,9.62
+43,Europe,Corporate,61,Manager,22,8.19
+44,Americas,Advisory,32,Manager,11,4.28
+45,Asia,Capital Markets,118,Manager,24,6.92
+46,Europe,Corporate,64,Manager,15,7.80
+47,Americas,Capital Markets,3,Manager,26,8.00
+48,Americas,Capital Markets,10,Manager,20,6.73
+49,Americas,Corporate,28,Manager,24,10.28
+50,Europe,Private Equity,98,Manager,13,6.28
+51,Asia,Capital Markets,139,Manager,21,7.55
+52,Asia,Capital Markets,115,Manager,20,7.42
+53,Asia,Advisory,137,Manager,20,8.65
+54,Americas,Private Equity,38,Manager,16,8.41
+55,Americas,Corporate,20,Manager,28,8.34
+56,Europe,Advisory,89,Manager,19,8.26
+57,Europe,Capital Markets,81,Manager,15,8.25
+58,Asia,Corporate,133,Manager,16,6.60
+59,Americas,Private Equity,1,Manager,13,8.05
+60,Americas,Private Equity,33,Manager,10,4.25
+61,Asia,Private Equity,144,Manager,7,4.54
+62,Americas,Capital Markets,41,Manager,28,8.72
+63,Americas,Private Equity,31,Manager,25,8.23
+64,Americas,Private Equity,5,Manager,15,7.51
+65,Europe,Capital Markets,94,Manager,19,7.81
+66,Europe,Capital Markets,60,Manager,17,8.19
+67,Europe,Capital Markets,58,Manager,24,7.95
+68,Europe,Private Equity,74,Manager,31,9.30
+69,Asia,Capital Markets,111,Manager,29,8.90
+70,Americas,Capital Markets,37,Manager,8,4.18
+71,Americas,Capital Markets,10,Manager,15,7.11
+72,Americas,Private Equity,23,Manager,17,7.26
+73,Europe,Advisory,91,Manager,7,4.35
+74,Americas,Corporate,49,Manager,27,10.05
+75,Americas,Private Equity,46,Manager,11,4.96
+76,Americas,Advisory,14,Manager,28,9.11
+77,Europe,Capital Markets,81,Manager,19,8.75
+78,Europe,Capital Markets,58,Manager,14,8.10
+79,Americas,Private Equity,30,Manager,17,7.61
+80,Americas,Advisory,17,Manager,20,7.08
+81,Americas,Advisory,21,Manager,17,6.74
+82,Europe,Capital Markets,54,Manager,15,7.45
+83,Europe,Private Equity,92,Manager,23,8.61
+84,Americas,Corporate,45,Manager,9,4.76
+85,Europe,Corporate,85,Manager,21,6.83
+86,Europe,Private Equity,74,Manager,19,9.22
+87,Europe,Private Equity,62,Manager,18,7.60
+88,Americas,Corporate,20,Manager,16,8.29
+89,Americas,Capital Markets,10,Manager,16,7.15
+90,Asia,Corporate,123,Manager,19,5.90
+91,Europe,Corporate,51,Manager,6,4.17
+92,Europe,Capital Markets,94,Manager,14,7.61
+93,Europe,Corporate,61,Manager,24,8.80
+94,Europe,Private Equity,98,Manager,21,6.49
+95,Asia,Corporate,116,Manager,25,12.40
+96,Americas,Private Equity,1,Manager,18,8.50
+97,Asia,Capital Markets,148,Manager,13,4.48
+98,Americas,Capital Markets,8,Manager,23,7.82
+99,Asia,Capital Markets,139,Manager,13,7.65
+100,Europe,Advisory,82,Manager,25,8.19
+101,Americas,Capital Markets,13,Manager,19,7.73
+102,Asia,Private Equity,112,Manager,15,7.27
+103,Asia,Corporate,120,Manager,14,6.94
+104,Asia,Private Equity,106,Manager,25,7.52
+105,Europe,Private Equity,92,Manager,29,9.04
+106,Asia,Advisory,122,Manager,24,7.40
+107,Americas,Corporate,34,Manager,10,4.31
+108,Asia,Capital Markets,132,Manager,12,7.50
+109,Europe,Advisory,73,Manager,10,4.81
+110,Americas,Private Equity,42,Manager,23,7.82
+111,Americas,Advisory,35,Manager,19,7.96
+112,Americas,Private Equity,43,Manager,17,7.08
+113,Asia,Private Equity,112,Manager,19,7.36
+114,Asia,Private Equity,150,Manager,11,6.45
+115,Americas,Capital Markets,13,Manager,15,7.66
+116,Asia,Corporate,128,Manager,11,6.51
+117,Europe,Private Equity,71,Manager,23,8.14
+118,Europe,Advisory,52,Manager,23,8.71
+119,Americas,Capital Markets,15,Manager,19,7.23
+120,Americas,Advisory,18,Manager,20,7.32
+121,Asia,Corporate,128,Manager,19,6.24
+122,Asia,Capital Markets,111,Manager,21,8.89
+123,Asia,Capital Markets,136,Manager,17,5.36
+124,Americas,Capital Markets,41,Manager,30,9.23
+125,Americas,Capital Markets,47,Manager,21,8.82
+126,Europe,Capital Markets,56,Manager,19,7.20
+127,Asia,Private Equity,108,Manager,19,7.62
+128,Americas,Advisory,19,Manager,18,9.55
+129,Americas,Advisory,7,Manager,14,7.50
+130,Americas,Capital Markets,2,Manager,19,6.90
+131,Americas,Capital Markets,24,Manager,15,6.12
+132,Europe,Advisory,88,Manager,24,8.26
+133,Asia,Capital Markets,138,Manager,23,9.90
+134,Americas,Private Equity,43,Manager,19,7.31
+135,Americas,Capital Markets,13,Manager,18,7.84
+136,Americas,Advisory,12,Manager,13,6.96
+137,Americas,Capital Markets,15,Manager,13,7.68
+138,Europe,Corporate,90,Manager,21,8.90
+139,Europe,Corporate,69,Manager,25,8.70
+140,Americas,Advisory,19,Manager,16,9.95
+141,Europe,Private Equity,62,Manager,11,7.54
+142,Europe,Corporate,86,Manager,15,6.14
+143,Europe,Private Equity,71,Manager,19,8.17
+144,Asia,Capital Markets,131,Manager,15,5.63
+145,Asia,Advisory,137,Manager,23,7.99
+146,Europe,Private Equity,72,Manager,14,8.13
+147,Europe,Capital Markets,54,Manager,19,6.96
+148,Europe,Capital Markets,53,Manager,19,8.47
+149,Americas,Private Equity,11,Manager,17,7.51
+150,Americas,Advisory,36,Manager,27,8.65
+151,Europe,Advisory,57,Manager,29,8.54
+152,Americas,Private Equity,1,Manager,23,8.59
+153,Asia,Advisory,105,Manager,18,6.76
+154,Americas,Capital Markets,22,Manager,16,8.53
+155,Europe,Private Equity,74,Manager,14,8.79
+156,Asia,Private Equity,142,Manager,13,4.12
+157,Americas,Advisory,17,Manager,17,7.05
+158,Europe,Capital Markets,78,Manager,14,6.37
+159,Americas,Advisory,12,Manager,14,7.25
+160,Americas,Private Equity,4,Manager,15,9.22
+161,Americas,Corporate,39,Manager,31,9.78
+162,Americas,Advisory,50,Manager,22,6.68
+163,Europe,Advisory,82,Manager,18,8.57
+164,Americas,Advisory,12,Manager,14,6.70
+165,Europe,Advisory,84,Manager,10,6.11
+166,Asia,Private Equity,103,Manager,8,5.11
+167,Asia,Advisory,114,Manager,9,4.90
+168,Asia,Capital Markets,124,Manager,12,4.47
+169,Asia,Advisory,135,Manager,7,4.25
+170,Europe,Corporate,87,Manager,13,5.16
+171,Europe,Private Equity,92,Manager,18,8.70
+172,Europe,Capital Markets,81,Manager,16,8.23
+173,Europe,Capital Markets,99,Manager,20,7.41
+174,Europe,Private Equity,100,Manager,11,4.98
+175,Asia,Corporate,146,Manager,11,4.89
+176,Asia,Corporate,145,Manager,15,4.48
+177,Asia,Capital Markets,138,Manager,19,9.95
+178,Europe,Private Equity,97,Manager,33,9.74
+179,Europe,Corporate,69,Manager,20,8.16
+180,Asia,Corporate,116,Manager,38,12.16
+181,Americas,Private Equity,43,Manager,15,7.29
+182,Europe,Private Equity,97,Manager,31,9.67
+183,Asia,Capital Markets,113,Manager,11,6.67
+184,Americas,Advisory,44,Manager,29,9.06
+185,Asia,Corporate,129,Manager,13,6.36
+186,Europe,Corporate,83,Manager,19,8.23
+187,Europe,Advisory,52,Manager,25,8.83
+188,Asia,Private Equity,127,Manager,11,6.10
+189,Europe,Advisory,55,Manager,20,8.07
+190,Asia,Private Equity,150,Manager,15,6.46
+191,Americas,Advisory,14,Manager,18,9.05
+192,Americas,Capital Markets,22,Manager,27,8.16
+193,Europe,Advisory,77,Manager,20,8.10
+194,Europe,Private Equity,75,Manager,12,5.08
+195,Americas,Advisory,21,Manager,15,6.91
+196,Asia,Advisory,104,Manager,15,5.39
+197,Europe,Private Equity,76,Manager,24,8.00
+198,Asia,Advisory,137,Manager,14,8.23
+199,Americas,Private Equity,31,Manager,30,8.75
+200,Asia,Advisory,105,Manager,17,6.43
+201,Asia,Private Equity,149,Manager,28,9.59
+202,Europe,Advisory,59,Manager,23,8.18
+203,Asia,Corporate,130,Manager,18,10.25
+204,Asia,Corporate,133,Manager,22,6.74
+205,Europe,Private Equity,92,Manager,21,9.21
+206,Americas,Advisory,44,Manager,15,8.89
+207,Asia,Advisory,141,Manager,11,6.66
+208,Americas,Advisory,17,Manager,11,6.86
+209,Americas,Advisory,50,Manager,21,7.12
+210,Asia,Advisory,122,Manager,25,7.14
+211,Americas,Capital Markets,2,Manager,24,6.87
+212,Americas,Private Equity,9,Manager,34,10.30
+213,Asia,Capital Markets,113,Manager,16,6.56
+214,Europe,Corporate,83,Manager,15,8.15
+215,Asia,Capital Markets,143,Manager,13,8.44
+216,Americas,Private Equity,30,Manager,12,7.74
+217,Asia,Private Equity,149,Manager,19,8.95
+218,Asia,Corporate,117,Manager,18,8.59
+219,Europe,Advisory,57,Manager,24,8.64
+220,Europe,Advisory,55,Manager,20,7.67
+221,Europe,Capital Markets,56,Manager,16,7.32
+222,Americas,Capital Markets,29,Manager,25,10.17
+223,Europe,Corporate,90,Manager,26,8.90
+224,Americas,Private Equity,40,Manager,34,10.03
+225,Asia,Advisory,107,Manager,16,6.46
+226,Americas,Capital Markets,47,Manager,20,8.93
+227,Asia,Private Equity,127,Manager,20,6.32
+228,Asia,Private Equity,101,Manager,17,5.50
+229,Europe,Private Equity,68,Manager,22,8.33
+230,Asia,Corporate,140,Manager,18,7.23
+231,Asia,Corporate,129,Manager,15,6.14
+232,Americas,Private Equity,38,Manager,29,8.43
+233,Europe,Corporate,96,Manager,24,7.95
+234,Asia,Corporate,117,Manager,23,8.66
+235,Europe,Private Equity,92,Manager,20,8.69
+236,Europe,Advisory,77,Manager,19,8.30
+237,Asia,Capital Markets,143,Manager,27,9.01
+238,Europe,Capital Markets,63,Manager,31,8.99
+239,Europe,Corporate,61,Manager,14,8.92
+240,Europe,Corporate,70,Manager,8,4.44
+241,Americas,Corporate,16,Manager,22,6.98
+242,Asia,Capital Markets,132,Manager,14,7.39
+243,Europe,Private Equity,71,Manager,21,8.10
+244,Asia,Corporate,117,Manager,24,8.18
+245,Europe,Capital Markets,53,Manager,25,8.56
+246,Asia,Capital Markets,138,Manager,32,9.79
+247,Europe,Advisory,52,Manager,28,8.66
+248,Asia,Private Equity,134,Manager,24,7.05
+249,Americas,Private Equity,31,Manager,14,8.10
+250,Europe,Private Equity,97,Manager,25,9.80
+251,Europe,Advisory,89,Manager,15,8.14
+252,Americas,Capital Markets,3,Manager,21,8.51
+253,Europe,Corporate,69,Manager,20,8.63
+254,Asia,Advisory,102,Manager,15,7.68
+255,Europe,Private Equity,74,Manager,29,9.45
+256,Americas,Corporate,26,Manager,15,9.20
+257,Asia,Corporate,125,Manager,15,4.33
+258,Americas,Advisory,36,Manager,21,8.37
+259,Asia,Capital Markets,119,Manager,14,4.57
+260,Europe,Capital Markets,67,Manager,15,8.87
+261,Americas,Private Equity,5,Manager,11,7.44
+262,Americas,Corporate,16,Manager,16,6.95
+263,Europe,Corporate,64,Manager,14,8.12
+264,Europe,Advisory,59,Manager,21,8.20
+265,Americas,Advisory,17,Manager,20,6.83
+266,Americas,Advisory,7,Manager,19,7.77
+267,Americas,Corporate,16,Manager,19,6.67
+268,Asia,Capital Markets,113,Manager,19,6.80
+269,Americas,Private Equity,11,Manager,19,7.39
+270,Europe,Corporate,64,Manager,23,8.31
+271,Americas,Capital Markets,29,Manager,25,10.33
+272,Americas,Advisory,12,Manager,15,7.03
+273,Asia,Capital Markets,138,Manager,27,9.61
+274,Europe,Private Equity,76,Manager,12,8.10
+275,Americas,Private Equity,40,Manager,29,10.30
+276,Europe,Private Equity,68,Manager,14,8.40
+277,Asia,Capital Markets,118,Manager,23,7.30
+278,Asia,Corporate,130,Manager,25,11.02
+279,Europe,Advisory,88,Manager,28,8.04
+280,Americas,Advisory,21,Manager,13,7.42
+281,Asia,Private Equity,109,Manager,9,5.47
+282,Asia,Private Equity,106,Manager,14,7.37
+283,Asia,Capital Markets,143,Manager,28,8.22
+284,Americas,Advisory,50,Manager,17,6.97
+285,Europe,Corporate,96,Manager,14,7.93
+286,Americas,Advisory,50,Manager,16,7.09
+287,Asia,Capital Markets,139,Manager,22,8.15
+288,Asia,Capital Markets,111,Manager,20,8.79
+289,Asia,Advisory,122,Manager,25,7.44
+290,Asia,Private Equity,108,Manager,17,8.30
+291,Americas,Advisory,27,Manager,16,9.70
+292,Europe,Private Equity,68,Manager,17,8.38
+293,Asia,Capital Markets,110,Manager,14,4.79
+294,Asia,Private Equity,147,Manager,19,6.48
+295,Asia,Corporate,120,Manager,18,7.34
+296,Americas,Advisory,50,Manager,13,6.89
+297,Americas,Capital Markets,2,Manager,21,7.24
+298,Americas,Corporate,49,Manager,17,9.62
+299,Europe,Private Equity,93,Manager,21,8.29
+300,Americas,Capital Markets,47,Manager,20,8.78
+301,Asia,Capital Markets,148,Associate,62,18.07
+302,Asia,Capital Markets,139,Associate,100,30.20
+303,Asia,Private Equity,147,Associate,55,24.81
+304,Americas,Advisory,18,Associate,56,29.50
+305,Asia,Capital Markets,138,Associate,122,37.51
+306,Americas,Advisory,21,Associate,80,27.04
+307,Asia,Private Equity,144,Associate,37,18.33
+308,Americas,Advisory,12,Associate,75,27.88
+309,Asia,Advisory,105,Associate,52,25.08
+310,Americas,Corporate,16,Associate,88,28.23
+311,Asia,Advisory,114,Associate,54,19.04
+312,Asia,Private Equity,134,Associate,81,28.49
+313,Europe,Private Equity,75,Associate,29,19.02
+314,Asia,Corporate,123,Associate,71,22.59
+315,Europe,Private Equity,65,Associate,77,29.75
+316,Europe,Private Equity,66,Associate,34,16.60
+317,Asia,Corporate,145,Associate,32,17.72
+318,Europe,Capital Markets,81,Associate,74,32.32
+319,Asia,Capital Markets,118,Associate,54,28.82
+320,Asia,Capital Markets,139,Associate,83,32.35
+321,Americas,Corporate,20,Associate,118,34.15
+322,Asia,Private Equity,106,Associate,78,27.82
+323,Asia,Capital Markets,143,Associate,80,35.61
+324,Europe,Corporate,69,Associate,76,32.13
+325,Europe,Advisory,52,Associate,76,34.29
+326,Asia,Capital Markets,110,Associate,40,19.24
+327,Americas,Capital Markets,47,Associate,69,34.74
+328,Asia,Capital Markets,136,Associate,42,21.95
+329,Asia,Corporate,128,Associate,74,26.31
+330,Americas,Advisory,6,Associate,47,15.47
+331,Americas,Advisory,35,Associate,77,34.67
+332,Americas,Private Equity,33,Associate,38,15.98
+333,Asia,Private Equity,144,Associate,63,18.31
+334,Europe,Corporate,51,Associate,51,17.43
+335,Asia,Advisory,122,Associate,83,30.09
+336,Europe,Private Equity,80,Associate,26,15.81
+337,Europe,Capital Markets,53,Associate,71,34.55
+338,Asia,Advisory,122,Associate,75,29.32
+339,Europe,Private Equity,62,Associate,91,32.07
+340,Americas,Advisory,32,Associate,42,17.43
+341,Americas,Advisory,18,Associate,81,29.20
+342,Americas,Advisory,6,Associate,44,15.78
+343,Americas,Corporate,16,Associate,62,28.66
+344,Europe,Corporate,64,Associate,86,32.08
+345,Asia,Capital Markets,110,Associate,51,17.76
+346,Europe,Private Equity,68,Associate,105,32.63
+347,Americas,Private Equity,43,Associate,59,31.05
+348,Europe,Corporate,87,Associate,31,19.17
+349,Asia,Corporate,146,Associate,44,20.62
+350,Asia,Private Equity,112,Associate,76,27.76
+351,Asia,Capital Markets,143,Associate,53,34.17
+352,Americas,Private Equity,42,Associate,98,30.25
+353,Americas,Corporate,28,Associate,133,40.98
+354,Asia,Capital Markets,110,Associate,36,18.47
+355,Americas,Private Equity,48,Associate,72,30.80
+356,Americas,Private Equity,43,Associate,86,28.77
+357,Asia,Capital Markets,113,Associate,66,27.32
+358,Asia,Private Equity,134,Associate,55,28.09
+359,Americas,Corporate,28,Associate,68,39.73
+360,Americas,Capital Markets,8,Associate,95,30.19
+361,Americas,Corporate,34,Associate,44,17.67
+362,Europe,Advisory,88,Associate,94,34.82
+363,Asia,Corporate,126,Associate,30,19.32
+364,Europe,Advisory,82,Associate,101,34.01
+365,Asia,Private Equity,142,Associate,50,15.55
+366,Americas,Corporate,49,Associate,99,39.12
+367,Europe,Corporate,51,Associate,38,16.13
+368,Asia,Capital Markets,132,Associate,50,28.92
+369,Asia,Private Equity,109,Associate,65,21.74
+370,Asia,Capital Markets,113,Associate,84,26.79
+371,Europe,Advisory,84,Associate,84,25.60
+372,Asia,Capital Markets,132,Associate,64,30.22
+373,Europe,Advisory,91,Associate,58,18.06
+374,Europe,Advisory,79,Associate,56,30.20
+375,Europe,Advisory,57,Associate,50,32.63
+376,Asia,Capital Markets,111,Associate,83,35.06
+377,Europe,Corporate,61,Associate,124,35.86
+378,Asia,Private Equity,127,Associate,52,25.23
+379,Europe,Capital Markets,60,Associate,79,33.12
+380,Europe,Corporate,90,Associate,70,34.44
+381,Americas,Advisory,35,Associate,52,31.82
+382,Europe,Advisory,84,Associate,72,25.71
+383,Europe,Advisory,59,Associate,86,34.01
+384,Americas,Private Equity,5,Associate,72,29.79
+385,Asia,Private Equity,127,Associate,55,23.70
+386,Europe,Corporate,64,Associate,83,31.61
+387,Americas,Capital Markets,2,Associate,66,28.39
+388,Americas,Advisory,27,Associate,83,39.03
+389,Europe,Capital Markets,56,Associate,48,30.97
+390,Asia,Capital Markets,148,Associate,53,18.22
+391,Americas,Advisory,6,Associate,50,15.49
+392,Asia,Private Equity,150,Associate,94,27.05
+393,Americas,Private Equity,40,Associate,102,41.39
+394,Americas,Corporate,45,Associate,58,18.89
+395,Americas,Corporate,45,Associate,65,19.01
+396,Europe,Private Equity,68,Associate,73,32.73
+397,Europe,Private Equity,98,Associate,72,25.63
+398,Europe,Private Equity,100,Associate,68,20.22
+399,Europe,Corporate,69,Associate,92,33.32
+400,Asia,Corporate,128,Associate,53,25.36
+401,Asia,Capital Markets,148,Associate,36,17.29
+402,Americas,Capital Markets,25,Associate,66,38.37
+403,Americas,Private Equity,38,Associate,59,31.81
+404,Europe,Corporate,87,Associate,62,19.76
+405,Asia,Private Equity,150,Associate,45,26.45
+406,Asia,Advisory,122,Associate,100,28.62
+407,Americas,Advisory,44,Associate,85,35.06
+408,Asia,Capital Markets,113,Associate,53,26.61
+409,Asia,Private Equity,127,Associate,84,24.36
+410,Americas,Corporate,20,Associate,88,32.36
+411,Asia,Private Equity,103,Associate,44,19.04
+412,Europe,Capital Markets,56,Associate,91,31.45
+413,Asia,Capital Markets,148,Associate,39,17.16
+414,Europe,Corporate,70,Associate,32,17.49
+415,Europe,Capital Markets,54,Associate,98,28.36
+416,Europe,Advisory,82,Associate,66,32.86
+417,Asia,Corporate,117,Associate,109,32.92
+418,Europe,Private Equity,92,Associate,124,36.30
+419,Europe,Corporate,70,Associate,30,16.14
+420,Europe,Private Equity,92,Associate,61,36.33
+421,Americas,Corporate,39,Associate,97,39.12
+422,Americas,Private Equity,11,Associate,68,30.85
+423,Asia,Corporate,133,Associate,75,27.66
+424,Asia,Private Equity,112,Associate,81,28.88
+425,Americas,Private Equity,46,Associate,35,19.27
+426,Asia,Capital Markets,121,Associate,47,20.53
+427,Americas,Capital Markets,29,Associate,66,38.06
+428,Americas,Private Equity,23,Associate,55,30.32
+429,Americas,Corporate,20,Associate,85,33.99
+430,Asia,Private Equity,103,Associate,35,19.95
+431,Asia,Private Equity,101,Associate,70,20.52
+432,Europe,Private Equity,93,Associate,110,33.43
+433,Americas,Private Equity,42,Associate,98,30.03
+434,Americas,Private Equity,11,Associate,66,31.06
+435,Europe,Capital Markets,67,Associate,80,34.30
+436,Asia,Capital Markets,110,Associate,47,17.98
+437,Americas,Private Equity,38,Associate,109,34.49
+438,Europe,Corporate,70,Associate,31,17.36
+439,Europe,Advisory,91,Associate,62,18.50
+440,Europe,Advisory,77,Associate,109,33.63
+441,Americas,Corporate,34,Associate,29,17.35
+442,Asia,Corporate,146,Associate,46,19.31
+443,Americas,Corporate,26,Associate,131,37.65
+444,Europe,Private Equity,75,Associate,53,19.73
+445,Americas,Private Equity,31,Associate,84,34.40
+446,Europe,Corporate,86,Associate,67,25.08
+447,Americas,Capital Markets,3,Associate,91,34.53
+448,Asia,Private Equity,101,Associate,70,22.03
+449,Europe,Advisory,89,Associate,101,32.63
+450,Europe,Corporate,90,Associate,115,33.18
+451,Asia,Corporate,129,Associate,80,25.87
+452,Asia,Corporate,133,Associate,92,26.58
+453,Asia,Advisory,135,Associate,53,16.02
+454,Europe,Private Equity,98,Associate,78,24.67
+455,Asia,Capital Markets,115,Associate,53,30.58
+456,Europe,Corporate,51,Associate,37,16.37
+457,Americas,Advisory,21,Associate,80,28.78
+458,Europe,Capital Markets,54,Associate,52,29.11
+459,Europe,Corporate,70,Associate,30,16.87
+460,Asia,Capital Markets,115,Associate,55,30.60
+461,Asia,Capital Markets,121,Associate,55,22.63
+462,Europe,Advisory,82,Associate,61,33.30
+463,Asia,Advisory,114,Associate,57,19.80
+464,Asia,Capital Markets,119,Associate,36,17.33
+465,Asia,Advisory,137,Associate,84,34.52
+466,Europe,Capital Markets,94,Associate,50,30.34
+467,Asia,Private Equity,106,Associate,48,30.47
+468,Asia,Private Equity,108,Associate,93,32.20
+469,Asia,Private Equity,101,Associate,60,21.96
+470,Americas,Corporate,45,Associate,36,18.97
+471,Asia,Capital Markets,118,Associate,55,27.40
+472,Asia,Advisory,107,Associate,62,26.94
+473,Americas,Private Equity,30,Associate,77,31.76
+474,Europe,Corporate,90,Associate,66,33.20
+475,Asia,Private Equity,106,Associate,88,30.54
+476,Europe,Private Equity,74,Associate,123,36.14
+477,Americas,Advisory,32,Associate,38,17.28
+478,Europe,Private Equity,76,Associate,48,31.52
+479,Americas,Private Equity,1,Associate,55,34.88
+480,Asia,Capital Markets,124,Associate,63,18.88
+481,Asia,Corporate,129,Associate,64,24.73
+482,Asia,Private Equity,144,Associate,54,17.97
+483,Americas,Capital Markets,8,Associate,64,30.89
+484,Europe,Private Equity,71,Associate,108,33.10
+485,Europe,Corporate,96,Associate,101,30.50
+486,Americas,Advisory,36,Associate,101,31.95
+487,Americas,Capital Markets,15,Associate,53,28.99
+488,Europe,Advisory,77,Associate,107,32.64
+489,Americas,Capital Markets,29,Associate,77,39.54
+490,Americas,Capital Markets,22,Associate,79,31.86
+491,Asia,Capital Markets,113,Associate,49,27.75
+492,Asia,Corporate,123,Associate,54,22.53
+493,Europe,Capital Markets,54,Associate,43,27.38
+494,Europe,Private Equity,66,Associate,52,16.09
+495,Americas,Capital Markets,24,Associate,49,22.82
+496,Europe,Capital Markets,53,Associate,74,35.63
+497,Europe,Private Equity,66,Associate,42,16.88
+498,Europe,Private Equity,76,Associate,68,32.31
+499,Europe,Corporate,64,Associate,76,31.47
+500,Europe,Capital Markets,94,Associate,75,28.96
+501,Americas,Corporate,39,Associate,63,39.84
+502,Asia,Capital Markets,110,Associate,53,18.08
+503,Americas,Advisory,21,Associate,93,27.16
+504,Europe,Private Equity,71,Associate,101,32.34
+505,Asia,Capital Markets,113,Associate,89,26.81
+506,Asia,Capital Markets,148,Associate,51,17.53
+507,Americas,Private Equity,43,Associate,76,29.49
+508,Americas,Advisory,6,Associate,50,15.14
+509,Europe,Corporate,87,Associate,64,18.84
+510,Americas,Private Equity,9,Associate,99,38.96
+511,Americas,Private Equity,11,Associate,86,30.67
+512,Americas,Advisory,35,Associate,111,32.56
+513,Asia,Private Equity,112,Associate,72,28.84
+514,Asia,Corporate,123,Associate,45,23.08
+515,Europe,Advisory,55,Associate,58,30.63
+516,Europe,Advisory,52,Associate,107,32.34
+517,Americas,Corporate,26,Associate,99,37.94
+518,Asia,Corporate,128,Associate,74,25.35
+519,Europe,Corporate,96,Associate,76,32.30
+520,Europe,Advisory,84,Associate,60,24.72
+521,Europe,Capital Markets,56,Associate,94,28.93
+522,Europe,Private Equity,92,Associate,117,34.95
+523,Americas,Capital Markets,10,Associate,52,26.36
+524,Europe,Private Equity,98,Associate,53,25.16
+525,Asia,Private Equity,127,Associate,54,24.89
+526,Europe,Private Equity,76,Associate,72,30.28
+527,Asia,Corporate,129,Associate,73,23.97
+528,Europe,Advisory,52,Associate,73,33.41
+529,Americas,Corporate,26,Associate,110,37.82
+530,Europe,Advisory,91,Associate,38,18.87
+531,Americas,Advisory,27,Associate,110,38.38
+532,Americas,Private Equity,33,Associate,26,16.70
+533,Asia,Corporate,120,Associate,61,30.28
+534,Asia,Corporate,140,Associate,90,28.48
+535,Americas,Private Equity,46,Associate,60,19.84
+536,Americas,Capital Markets,24,Associate,36,23.21
+537,Asia,Advisory,102,Associate,95,30.60
+538,Americas,Capital Markets,47,Associate,125,36.60
+539,Europe,Advisory,91,Associate,56,18.19
+540,Americas,Private Equity,46,Associate,57,18.86
+541,Americas,Private Equity,5,Associate,76,28.89
+542,Asia,Corporate,126,Associate,67,20.88
+543,Americas,Advisory,12,Associate,66,27.27
+544,Asia,Advisory,114,Associate,36,19.95
+545,Europe,Private Equity,98,Associate,57,24.31
+546,Americas,Private Equity,40,Associate,132,41.26
+547,Europe,Private Equity,100,Associate,59,18.93
+548,Europe,Corporate,69,Associate,98,32.98
+549,Europe,Capital Markets,67,Associate,64,34.04
+550,Asia,Capital Markets,138,Associate,127,41.11
+551,Americas,Capital Markets,37,Associate,39,16.36
+552,Americas,Advisory,6,Associate,29,15.50
+553,Asia,Capital Markets,143,Associate,59,33.08
+554,Americas,Capital Markets,24,Associate,61,22.59
+555,Asia,Corporate,129,Associate,77,24.67
+556,Europe,Private Equity,65,Associate,80,27.65
+557,Europe,Capital Markets,53,Associate,75,33.31
+558,Americas,Corporate,20,Associate,88,31.83
+559,Asia,Advisory,135,Associate,41,17.41
+560,Europe,Private Equity,66,Associate,34,15.95
+561,Americas,Capital Markets,41,Associate,116,37.84
+562,Americas,Capital Markets,47,Associate,64,34.64
+563,Americas,Advisory,32,Associate,36,17.85
+564,Europe,Private Equity,98,Associate,60,24.40
+565,Europe,Corporate,83,Associate,76,32.12
+566,Asia,Capital Markets,113,Associate,56,27.43
+567,Asia,Private Equity,112,Associate,81,27.90
+568,Asia,Corporate,126,Associate,62,20.14
+569,Asia,Capital Markets,131,Associate,65,21.60
+570,Europe,Capital Markets,99,Associate,94,28.34
+571,Americas,Capital Markets,15,Associate,57,30.38
+572,Americas,Private Equity,30,Associate,82,32.14
+573,Asia,Corporate,128,Associate,38,24.76
+574,Americas,Capital Markets,29,Associate,64,39.54
+575,Asia,Corporate,133,Associate,67,27.52
+576,Europe,Advisory,73,Associate,41,19.26
+577,Europe,Private Equity,75,Associate,62,19.11
+578,Europe,Capital Markets,63,Associate,59,36.00
+579,Americas,Capital Markets,47,Associate,106,35.43
+580,Americas,Capital Markets,47,Associate,90,35.33
+581,Americas,Corporate,45,Associate,55,19.46
+582,Americas,Advisory,7,Associate,52,31.42
+583,Asia,Private Equity,134,Associate,88,27.24
+584,Europe,Private Equity,95,Associate,37,16.23
+585,Asia,Private Equity,109,Associate,58,20.77
+586,Asia,Private Equity,142,Associate,53,16.43
+587,Asia,Corporate,140,Associate,63,28.36
+588,Americas,Capital Markets,29,Associate,119,41.84
+589,Asia,Corporate,125,Associate,44,16.37
+590,Americas,Capital Markets,24,Associate,79,23.20
+591,Americas,Advisory,44,Associate,56,36.00
+592,Americas,Capital Markets,47,Associate,64,34.36
+593,Asia,Advisory,105,Associate,69,26.58
+594,Europe,Capital Markets,78,Associate,63,25.59
+595,Europe,Advisory,52,Associate,57,35.50
+596,Americas,Advisory,14,Associate,111,35.38
+597,Asia,Corporate,145,Associate,48,18.34
+598,Americas,Private Equity,1,Associate,82,32.76
+599,Europe,Private Equity,98,Associate,49,25.68
+600,Americas,Private Equity,33,Associate,35,16.76
+601,Americas,Advisory,14,Associate,107,37.31
+602,Europe,Corporate,70,Associate,30,16.71
+603,Americas,Advisory,44,Associate,78,35.03
+604,Americas,Capital Markets,29,Associate,68,41.72
+605,Asia,Advisory,135,Associate,36,16.51
+606,Americas,Corporate,26,Associate,84,37.01
+607,Europe,Advisory,57,Associate,84,32.52
+608,Americas,Private Equity,30,Associate,97,29.45
+609,Americas,Private Equity,1,Associate,86,34.42
+610,Asia,Private Equity,150,Associate,49,27.04
+611,Americas,Private Equity,46,Associate,39,19.27
+612,Asia,Capital Markets,115,Associate,84,32.06
+613,Europe,Advisory,91,Associate,53,17.64
+614,Americas,Advisory,19,Associate,96,40.06
+615,Europe,Corporate,87,Associate,33,19.00
+616,Europe,Corporate,64,Associate,83,34.42
+617,Asia,Private Equity,150,Associate,93,27.12
+618,Europe,Corporate,85,Associate,99,28.84
+619,Asia,Capital Markets,110,Associate,32,18.84
+620,Americas,Private Equity,46,Associate,58,18.71
+621,Europe,Private Equity,71,Associate,58,34.50
+622,Europe,Corporate,70,Associate,48,16.46
+623,Asia,Corporate,117,Associate,63,34.12
+624,Europe,Corporate,51,Associate,26,16.20
+625,Americas,Private Equity,9,Associate,95,40.55
+626,Europe,Capital Markets,81,Associate,73,35.01
+627,Asia,Private Equity,106,Associate,97,28.17
+628,Europe,Private Equity,76,Associate,80,31.62
+629,Europe,Corporate,90,Associate,99,32.93
+630,Americas,Advisory,27,Associate,97,40.64
+631,Europe,Private Equity,71,Associate,71,35.21
+632,Asia,Capital Markets,113,Associate,62,26.19
+633,Asia,Private Equity,134,Associate,46,27.10
+634,Asia,Capital Markets,143,Associate,96,34.39
+635,Europe,Corporate,69,Associate,112,34.87
+636,Europe,Corporate,64,Associate,112,31.87
+637,Europe,Advisory,55,Associate,57,30.39
+638,Asia,Capital Markets,121,Associate,37,21.07
+639,Americas,Advisory,35,Associate,101,34.60
+640,Asia,Private Equity,109,Associate,41,21.02
+641,Americas,Advisory,21,Associate,82,27.38
+642,Americas,Capital Markets,24,Associate,57,23.01
+643,Europe,Private Equity,93,Associate,73,34.83
+644,Americas,Private Equity,11,Associate,46,30.39
+645,Americas,Private Equity,23,Associate,50,30.66
+646,Americas,Corporate,39,Associate,117,39.25
+647,Asia,Corporate,125,Associate,45,16.68
+648,Asia,Private Equity,144,Associate,28,18.13
+649,Europe,Capital Markets,54,Associate,73,29.02
+650,Americas,Private Equity,42,Associate,98,29.43
+651,Americas,Private Equity,40,Associate,130,38.89
+652,Europe,Private Equity,80,Associate,49,15.78
+653,Europe,Corporate,61,Associate,83,32.55
+654,Asia,Private Equity,149,Associate,118,36.42
+655,Europe,Corporate,85,Associate,58,27.59
+656,Americas,Private Equity,33,Associate,37,16.32
+657,Europe,Advisory,55,Associate,66,30.16
+658,Americas,Advisory,32,Associate,55,16.33
+659,Europe,Corporate,69,Associate,112,32.12
+660,Europe,Corporate,69,Associate,88,33.61
+661,Europe,Corporate,64,Associate,59,33.65
+662,Asia,Corporate,125,Associate,31,16.37
+663,Asia,Capital Markets,124,Associate,51,18.91
+664,Asia,Capital Markets,118,Associate,78,27.91
+665,Europe,Private Equity,100,Associate,46,20.19
+666,Europe,Corporate,51,Associate,27,16.38
+667,Asia,Private Equity,101,Associate,41,21.51
+668,Asia,Corporate,125,Associate,59,17.62
+669,Americas,Private Equity,23,Associate,71,30.72
+670,Asia,Private Equity,150,Associate,80,26.78
+671,Americas,Capital Markets,37,Associate,38,17.27
+672,Americas,Capital Markets,3,Associate,67,32.71
+673,Americas,Private Equity,38,Associate,97,34.51
+674,Asia,Corporate,125,Associate,49,16.85
+675,Europe,Capital Markets,99,Associate,100,30.09
+676,Americas,Private Equity,40,Associate,92,41.17
+677,Asia,Capital Markets,139,Associate,66,32.42
+678,Asia,Capital Markets,113,Associate,64,25.19
+679,Asia,Advisory,122,Associate,86,28.42
+680,Asia,Corporate,125,Associate,54,16.26
+681,Americas,Corporate,34,Associate,56,16.93
+682,Europe,Capital Markets,94,Associate,100,30.85
+683,Asia,Capital Markets,143,Associate,90,35.31
+684,Asia,Corporate,129,Associate,62,23.92
+685,Asia,Private Equity,142,Associate,46,15.76
+686,Americas,Advisory,27,Associate,109,38.26
+687,Europe,Private Equity,92,Associate,76,35.82
+688,Asia,Corporate,133,Associate,66,27.72
+689,Asia,Capital Markets,115,Associate,95,30.70
+690,Asia,Corporate,146,Associate,73,20.86
+691,Europe,Capital Markets,94,Associate,104,30.76
+692,Asia,Corporate,129,Associate,53,24.54
+693,Asia,Capital Markets,139,Associate,74,32.71
+694,Europe,Private Equity,100,Associate,60,20.42
+695,Asia,Capital Markets,119,Associate,56,17.16
+696,Americas,Corporate,45,Associate,51,19.32
+697,Asia,Private Equity,103,Associate,63,20.59
+698,Asia,Corporate,128,Associate,89,25.55
+699,Asia,Private Equity,109,Associate,38,20.75
+700,Americas,Advisory,19,Associate,106,41.03
+701,Americas,Capital Markets,2,Associate,85,26.58
+702,Europe,Corporate,70,Associate,31,16.98
+703,Americas,Capital Markets,13,Associate,64,30.26
+704,Europe,Advisory,59,Associate,80,34.05
+705,Americas,Advisory,12,Associate,60,26.80
+706,Europe,Corporate,86,Associate,40,24.27
+707,Asia,Capital Markets,148,Associate,55,17.66
+708,Europe,Corporate,87,Associate,38,20.72
+709,Americas,Corporate,16,Associate,96,28.76
+710,Americas,Advisory,50,Associate,69,27.31
+711,Americas,Capital Markets,3,Associate,85,31.98
+712,Asia,Capital Markets,131,Associate,42,21.44
+713,Asia,Private Equity,109,Associate,49,22.65
+714,Asia,Advisory,135,Associate,37,16.89
+715,Asia,Corporate,145,Associate,57,16.96
+716,Asia,Private Equity,147,Associate,48,25.15
+717,Europe,Private Equity,95,Associate,42,16.42
+718,Europe,Advisory,89,Associate,109,34.79
+719,Americas,Capital Markets,15,Associate,88,28.62
+720,Americas,Corporate,45,Associate,55,18.32
+721,Asia,Advisory,137,Associate,62,31.91
+722,Americas,Corporate,45,Associate,53,19.12
+723,Asia,Corporate,145,Associate,50,18.36
+724,Americas,Capital Markets,15,Associate,48,28.51
+725,Asia,Advisory,141,Associate,43,25.77
+726,Americas,Advisory,17,Associate,58,28.60
+727,Asia,Private Equity,108,Associate,102,31.04
+728,Asia,Advisory,107,Associate,54,25.38
+729,Europe,Private Equity,80,Associate,49,16.52
+730,Americas,Private Equity,5,Associate,87,27.90
+731,Asia,Capital Markets,111,Associate,71,36.70
+732,Europe,Private Equity,80,Associate,40,16.66
+733,Europe,Private Equity,75,Associate,61,18.86
+734,Asia,Corporate,140,Associate,98,30.49
+735,Europe,Advisory,89,Associate,93,35.38
+736,Asia,Private Equity,127,Associate,42,25.16
+737,Asia,Private Equity,101,Associate,36,21.98
+738,Asia,Capital Markets,111,Associate,93,35.63
+739,Americas,Private Equity,23,Associate,52,29.03
+740,Americas,Capital Markets,13,Associate,94,30.42
+741,Asia,Capital Markets,131,Associate,68,20.62
+742,Americas,Advisory,12,Associate,66,27.17
+743,Americas,Capital Markets,10,Associate,83,26.67
+744,Europe,Corporate,51,Associate,44,16.93
+745,Europe,Private Equity,97,Associate,61,38.88
+746,Americas,Advisory,12,Associate,48,27.83
+747,Americas,Private Equity,43,Associate,97,28.74
+748,Europe,Corporate,83,Associate,74,30.57
+749,Americas,Capital Markets,10,Associate,70,28.78
+750,Asia,Capital Markets,115,Associate,102,30.07
+751,Asia,Private Equity,149,Associate,73,35.69
+752,Asia,Corporate,120,Associate,71,29.07
+753,Americas,Private Equity,48,Associate,81,29.57
+754,Europe,Corporate,69,Associate,74,34.86
+755,Americas,Private Equity,30,Associate,57,29.51
+756,Asia,Advisory,107,Associate,91,26.83
+757,Americas,Private Equity,33,Associate,45,16.94
+758,Asia,Capital Markets,143,Associate,66,34.07
+759,Americas,Corporate,34,Associate,41,17.04
+760,Americas,Private Equity,43,Associate,54,29.27
+761,Asia,Advisory,102,Associate,61,29.66
+762,Americas,Private Equity,42,Associate,92,28.78
+763,Asia,Advisory,122,Associate,55,28.41
+764,Americas,Advisory,32,Associate,50,17.28
+765,Europe,Capital Markets,81,Associate,66,34.45
+766,Americas,Advisory,18,Associate,63,28.62
+767,Europe,Corporate,85,Associate,61,29.83
+768,Asia,Private Equity,150,Associate,46,27.52
+769,Asia,Advisory,102,Associate,73,30.89
+770,Europe,Capital Markets,94,Associate,58,28.93
+771,Asia,Private Equity,103,Associate,66,20.63
+772,Asia,Advisory,105,Associate,51,26.39
+773,Americas,Advisory,6,Associate,25,15.21
+774,Americas,Private Equity,43,Associate,71,29.59
+775,Americas,Advisory,17,Associate,93,28.83
+776,Asia,Capital Markets,115,Associate,108,31.16
+777,Asia,Private Equity,106,Associate,87,28.98
+778,Europe,Corporate,51,Associate,50,16.34
+779,Europe,Advisory,77,Associate,59,32.31
+780,Asia,Private Equity,142,Associate,38,15.26
+781,Europe,Capital Markets,60,Associate,66,34.15
+782,Europe,Private Equity,66,Associate,44,16.11
+783,Asia,Corporate,120,Associate,91,28.07
+784,Americas,Private Equity,43,Associate,52,29.05
+785,Americas,Capital Markets,15,Associate,73,30.82
+786,Americas,Advisory,14,Associate,94,37.08
+787,Europe,Capital Markets,58,Associate,75,31.16
+788,Americas,Private Equity,31,Associate,110,34.75
+789,Europe,Capital Markets,94,Associate,87,31.29
+790,Asia,Corporate,123,Associate,70,22.61
+791,Asia,Advisory,114,Associate,45,19.66
+792,Europe,Advisory,57,Associate,82,34.88
+793,Americas,Advisory,50,Associate,93,26.79
+794,Europe,Private Equity,80,Associate,44,15.67
+795,Europe,Capital Markets,56,Associate,76,31.25
+796,Europe,Advisory,91,Associate,46,17.68
+797,Asia,Private Equity,127,Associate,68,25.35
+798,Europe,Private Equity,98,Associate,85,25.34
+799,Americas,Capital Markets,8,Associate,98,31.19
+800,Americas,Capital Markets,24,Associate,74,23.51
+801,Asia,Private Equity,108,Associate,68,32.87
+802,Asia,Capital Markets,124,Associate,30,18.39
+803,Europe,Private Equity,72,Associate,69,32.98
+804,Asia,Capital Markets,131,Associate,63,22.01
+805,Americas,Private Equity,9,Associate,89,38.75
+806,Asia,Corporate,128,Associate,62,26.91
+807,Europe,Advisory,89,Associate,61,35.01
+808,Europe,Corporate,86,Associate,44,25.33
+809,Europe,Advisory,88,Associate,88,33.49
+810,Asia,Private Equity,142,Associate,52,15.91
+811,Asia,Private Equity,101,Associate,57,21.69
+812,Europe,Advisory,82,Associate,105,33.63
+813,Asia,Advisory,122,Associate,77,30.03
+814,Europe,Corporate,51,Associate,59,17.01
+815,Asia,Advisory,137,Associate,114,34.71
+816,Europe,Capital Markets,53,Associate,112,33.27
+817,Americas,Private Equity,11,Associate,78,29.85
+818,Asia,Advisory,105,Associate,57,26.24
+819,Americas,Advisory,36,Associate,81,34.94
+820,Asia,Advisory,102,Associate,49,30.25
+821,Americas,Private Equity,38,Associate,73,33.69
+822,Americas,Capital Markets,37,Associate,38,16.59
+823,Americas,Capital Markets,2,Associate,93,27.33
+824,Europe,Advisory,77,Associate,64,32.96
+825,Americas,Private Equity,48,Associate,80,31.26
+826,Asia,Capital Markets,110,Associate,53,18.21
+827,Europe,Private Equity,72,Associate,83,32.41
+828,Europe,Corporate,90,Associate,61,34.23
+829,Americas,Capital Markets,29,Associate,102,41.45
+830,Americas,Capital Markets,41,Associate,103,37.30
+831,Americas,Private Equity,23,Associate,48,29.68
+832,Asia,Capital Markets,113,Associate,79,26.01
+833,Americas,Capital Markets,8,Associate,86,29.05
+834,Europe,Advisory,82,Associate,72,34.26
+835,Europe,Capital Markets,58,Associate,84,32.51
+836,Asia,Capital Markets,132,Associate,68,31.18
+837,Americas,Corporate,28,Associate,93,40.32
+838,Europe,Advisory,82,Associate,96,34.15
+839,Europe,Corporate,83,Associate,87,32.61
+840,Asia,Corporate,133,Associate,42,27.35
+841,Americas,Corporate,34,Associate,26,16.22
+842,Americas,Private Equity,31,Associate,67,34.25
+843,Americas,Capital Markets,29,Associate,82,39.43
+844,Europe,Private Equity,76,Associate,76,30.66
+845,Americas,Private Equity,33,Associate,55,16.35
+846,Europe,Advisory,52,Associate,84,35.33
+847,Asia,Capital Markets,119,Associate,50,17.01
+848,Americas,Advisory,7,Associate,55,31.10
+849,Asia,Private Equity,103,Associate,52,20.41
+850,Europe,Private Equity,93,Associate,104,33.14
+851,Americas,Private Equity,40,Associate,83,40.25
+852,Americas,Corporate,45,Associate,57,19.45
+853,Asia,Capital Markets,136,Associate,34,22.01
+854,Americas,Capital Markets,24,Associate,49,23.24
+855,Asia,Private Equity,134,Associate,81,28.83
+856,Asia,Capital Markets,136,Associate,53,21.15
+857,Asia,Capital Markets,110,Associate,62,18.14
+858,Asia,Corporate,123,Associate,45,24.11
+859,Asia,Advisory,114,Associate,65,19.56
+860,Europe,Private Equity,62,Associate,67,32.56
+861,Europe,Capital Markets,99,Associate,52,27.44
+862,Americas,Capital Markets,24,Associate,79,23.84
+863,Americas,Capital Markets,22,Associate,90,34.87
+864,Asia,Capital Markets,131,Associate,60,21.47
+865,Europe,Advisory,79,Associate,66,32.78
+866,Europe,Capital Markets,54,Associate,88,29.54
+867,Europe,Capital Markets,63,Associate,66,35.70
+868,Europe,Private Equity,93,Associate,81,35.00
+869,Europe,Private Equity,93,Associate,80,33.19
+870,Asia,Advisory,102,Associate,85,31.15
+871,Asia,Private Equity,103,Associate,53,19.77
+872,Asia,Corporate,146,Associate,34,19.54
+873,Americas,Corporate,26,Associate,101,37.62
+874,Americas,Private Equity,9,Associate,80,40.62
+875,Asia,Corporate,117,Associate,60,32.91
+876,Americas,Advisory,19,Associate,118,40.36
+877,Asia,Capital Markets,148,Associate,60,18.25
+878,Europe,Advisory,77,Associate,57,31.06
+879,Asia,Advisory,141,Associate,63,24.71
+880,Europe,Advisory,55,Associate,73,31.99
+881,Americas,Advisory,14,Associate,95,34.80
+882,Europe,Advisory,73,Associate,68,20.09
+883,Europe,Advisory,52,Associate,59,32.72
+884,Americas,Capital Markets,37,Associate,39,16.84
+885,Europe,Capital Markets,54,Associate,94,27.99
+886,Europe,Corporate,85,Associate,94,28.82
+887,Americas,Advisory,6,Associate,56,16.35
+888,Americas,Capital Markets,15,Associate,54,28.68
+889,Europe,Corporate,90,Associate,69,33.87
+890,Europe,Corporate,70,Associate,38,17.76
+891,Americas,Private Equity,33,Associate,33,16.02
+892,Asia,Private Equity,108,Associate,79,31.55
+893,Europe,Private Equity,62,Associate,94,30.06
+894,Europe,Corporate,64,Associate,83,34.02
+895,Americas,Advisory,6,Associate,33,15.63
+896,Americas,Corporate,26,Associate,113,36.14
+897,Asia,Capital Markets,113,Associate,74,27.69
+898,Americas,Capital Markets,47,Associate,97,33.79
+899,Asia,Private Equity,142,Associate,28,16.10
+900,Americas,Advisory,18,Associate,92,29.98
+901,Europe,Corporate,90,Associate,55,34.67
+902,Europe,Capital Markets,94,Associate,85,31.03
+903,Europe,Advisory,73,Associate,55,19.06
+904,Europe,Capital Markets,54,Associate,51,30.12
+905,Europe,Private Equity,98,Associate,42,24.85
+906,Europe,Corporate,69,Associate,81,32.21
+907,Americas,Private Equity,1,Associate,90,34.98
+908,Europe,Corporate,83,Associate,56,31.11
+909,Americas,Advisory,6,Associate,28,16.00
+910,Europe,Capital Markets,56,Associate,55,29.77
+911,Asia,Capital Markets,115,Associate,50,30.30
+912,Europe,Advisory,59,Associate,65,33.62
+913,Europe,Private Equity,66,Associate,26,16.33
+914,Asia,Capital Markets,131,Associate,65,21.24
+915,Asia,Advisory,137,Associate,81,34.33
+916,Americas,Private Equity,33,Associate,34,16.96
+917,Europe,Capital Markets,54,Associate,66,29.93
+918,Europe,Private Equity,100,Associate,50,19.12
+919,Asia,Private Equity,142,Associate,37,15.19
+920,Asia,Capital Markets,138,Associate,62,37.96
+921,Americas,Capital Markets,41,Associate,57,35.06
+922,Americas,Capital Markets,25,Associate,105,39.11
+923,Europe,Private Equity,71,Associate,73,34.82
+924,Asia,Capital Markets,124,Associate,50,18.48
+925,Asia,Corporate,123,Associate,48,22.55
+926,Asia,Advisory,107,Associate,41,24.51
+927,Americas,Corporate,49,Associate,125,36.88
+928,Asia,Corporate,146,Associate,47,19.55
+929,Americas,Advisory,6,Associate,50,15.49
+930,Asia,Capital Markets,118,Associate,92,27.17
+931,Americas,Private Equity,31,Associate,76,34.92
+932,Europe,Advisory,88,Associate,88,32.27
+933,Asia,Corporate,117,Associate,66,32.24
+934,Asia,Advisory,135,Associate,46,16.09
+935,Europe,Advisory,88,Associate,75,33.33
+936,Americas,Advisory,50,Associate,49,26.83
+937,Asia,Capital Markets,113,Associate,72,25.77
+938,Europe,Capital Markets,81,Associate,63,32.03
+939,Asia,Corporate,129,Associate,71,25.44
+940,Asia,Corporate,123,Associate,53,23.68
+941,Europe,Private Equity,100,Associate,46,20.54
+942,Europe,Capital Markets,63,Associate,100,36.46
+943,Europe,Corporate,85,Associate,64,27.70
+944,Americas,Private Equity,40,Associate,100,37.80
+945,Europe,Private Equity,68,Associate,87,33.18
+946,Americas,Advisory,14,Associate,98,35.57
+947,Americas,Corporate,26,Associate,87,37.58
+948,Europe,Private Equity,65,Associate,47,27.94
+949,Americas,Advisory,44,Associate,79,36.29
+950,Europe,Corporate,70,Associate,41,16.75
+951,Americas,Private Equity,4,Associate,100,35.54
+952,Europe,Advisory,84,Associate,49,25.61
+953,Asia,Private Equity,106,Associate,51,28.20
+954,Europe,Corporate,96,Associate,85,30.15
+955,Asia,Capital Markets,119,Associate,59,18.18
+956,Asia,Private Equity,149,Associate,80,38.38
+957,Europe,Capital Markets,58,Associate,112,32.88
+958,Americas,Advisory,21,Associate,91,29.25
+959,Europe,Private Equity,97,Associate,133,42.17
+960,Asia,Advisory,137,Associate,112,32.21
+961,Asia,Capital Markets,119,Associate,64,18.39
+962,Americas,Corporate,28,Associate,94,39.19
+963,Europe,Private Equity,66,Associate,42,16.40
+964,Europe,Capital Markets,81,Associate,68,34.84
+965,Americas,Advisory,6,Associate,29,16.29
+966,Americas,Corporate,49,Associate,121,37.58
+967,Americas,Private Equity,42,Associate,74,29.65
+968,Europe,Advisory,52,Associate,94,33.72
+969,Americas,Capital Markets,15,Associate,97,29.53
+970,Asia,Private Equity,142,Associate,44,15.88
+971,Asia,Corporate,133,Associate,84,28.01
+972,Americas,Private Equity,4,Associate,96,36.59
+973,Americas,Private Equity,46,Associate,41,18.83
+974,Europe,Capital Markets,56,Associate,102,30.90
+975,Americas,Advisory,32,Associate,52,17.12
+976,Asia,Corporate,145,Associate,50,16.73
+977,Europe,Private Equity,95,Associate,37,17.56
+978,Europe,Private Equity,95,Associate,58,17.60
+979,Europe,Private Equity,66,Associate,38,17.05
+980,Europe,Corporate,96,Associate,58,32.19
+981,Europe,Capital Markets,58,Associate,59,34.12
+982,Americas,Capital Markets,24,Associate,68,24.40
+983,Asia,Corporate,133,Associate,44,27.27
+984,Americas,Capital Markets,37,Associate,34,16.88
+985,Asia,Advisory,102,Associate,92,31.13
+986,Asia,Advisory,122,Associate,58,28.57
+987,Asia,Corporate,117,Associate,84,32.01
+988,Asia,Advisory,104,Associate,70,21.98
+989,Asia,Capital Markets,121,Associate,47,20.67
+990,Europe,Capital Markets,81,Associate,85,34.18
+991,Asia,Advisory,135,Associate,45,16.58
+992,Europe,Private Equity,72,Associate,88,34.29
+993,Europe,Capital Markets,78,Associate,42,24.57
+994,Asia,Private Equity,144,Associate,58,18.10
+995,Americas,Private Equity,5,Associate,52,29.05
+996,Europe,Private Equity,95,Associate,47,17.58
+997,Asia,Corporate,123,Associate,69,23.22
+998,Europe,Advisory,77,Associate,81,30.95
+999,Europe,Advisory,88,Associate,83,34.63
+1000,Europe,Private Equity,98,Associate,44,26.54
+1001,Asia,Advisory,135,Associate,34,17.54
+1002,Americas,Private Equity,31,Associate,74,32.88
+1003,Europe,Capital Markets,54,Associate,53,29.93
+1004,Americas,Corporate,26,Associate,61,35.53
+1005,Americas,Capital Markets,3,Associate,69,34.04
+1006,Europe,Capital Markets,78,Associate,46,26.37
+1007,Asia,Advisory,107,Associate,65,25.66
+1008,Europe,Private Equity,98,Associate,56,26.02
+1009,Asia,Corporate,125,Associate,31,17.37
+1010,Americas,Advisory,17,Associate,54,27.52
+1011,Americas,Private Equity,40,Associate,86,40.11
+1012,Europe,Private Equity,65,Associate,46,29.65
+1013,Americas,Private Equity,48,Associate,47,29.20
+1014,Asia,Advisory,122,Associate,62,28.73
+1015,Asia,Capital Markets,118,Associate,51,27.14
+1016,Asia,Corporate,145,Associate,33,17.31
+1017,Europe,Corporate,86,Associate,45,26.71
+1018,Europe,Corporate,64,Associate,104,32.25
+1019,Europe,Corporate,83,Associate,60,30.44
+1020,Americas,Private Equity,1,Associate,112,34.04
+1021,Americas,Advisory,6,Associate,42,16.13
+1022,Asia,Capital Markets,124,Associate,62,17.82
+1023,Asia,Capital Markets,124,Associate,43,19.28
+1024,Asia,Capital Markets,139,Associate,63,32.44
+1025,Europe,Advisory,57,Associate,53,32.73
+1026,Europe,Advisory,57,Associate,115,35.26
+1027,Asia,Corporate,120,Associate,56,29.56
+1028,Asia,Private Equity,142,Associate,50,15.75
+1029,Europe,Corporate,51,Associate,53,17.38
+1030,Europe,Private Equity,76,Associate,52,30.20
+1031,Europe,Capital Markets,99,Associate,79,28.21
+1032,Americas,Capital Markets,22,Associate,117,34.77
+1033,Asia,Private Equity,106,Associate,67,30.12
+1034,Americas,Advisory,44,Associate,120,35.92
+1035,Americas,Private Equity,30,Associate,69,29.70
+1036,Asia,Advisory,104,Associate,42,21.03
+1037,Europe,Private Equity,92,Associate,110,36.66
+1038,Americas,Capital Markets,13,Associate,75,30.43
+1039,Europe,Capital Markets,67,Associate,90,34.09
+1040,Asia,Corporate,123,Associate,59,22.44
+1041,Americas,Capital Markets,29,Associate,90,38.20
+1042,Europe,Advisory,52,Associate,105,33.86
+1043,Americas,Advisory,12,Associate,70,27.78
+1044,Europe,Private Equity,66,Associate,56,16.63
+1045,Americas,Private Equity,46,Associate,41,18.61
+1046,Europe,Advisory,91,Associate,39,17.94
+1047,Americas,Capital Markets,24,Associate,72,22.72
+1048,Americas,Advisory,18,Associate,56,29.93
+1049,Americas,Capital Markets,47,Associate,90,34.12
+1050,Americas,Corporate,26,Associate,89,35.99
+1051,Europe,Corporate,64,Associate,65,33.28
+1052,Americas,Capital Markets,37,Associate,55,16.33
+1053,Americas,Corporate,26,Associate,68,37.81
+1054,Americas,Capital Markets,15,Associate,63,29.22
+1055,Europe,Advisory,84,Associate,74,25.55
+1056,Americas,Private Equity,1,Associate,115,33.64
+1057,Europe,Capital Markets,58,Associate,95,33.98
+1058,Europe,Advisory,79,Associate,57,30.35
+1059,Americas,Advisory,32,Associate,48,16.33
+1060,Americas,Advisory,17,Associate,63,27.45
+1061,Asia,Corporate,145,Associate,34,17.25
+1062,Americas,Private Equity,31,Associate,94,31.77
+1063,Asia,Capital Markets,118,Associate,63,27.96
+1064,Europe,Private Equity,68,Associate,84,35.06
+1065,Asia,Corporate,123,Associate,49,22.78
+1066,Asia,Capital Markets,111,Associate,114,35.90
+1067,Americas,Capital Markets,13,Associate,76,32.31
+1068,Americas,Advisory,6,Associate,45,15.16
+1069,Asia,Advisory,104,Associate,57,20.66
+1070,Americas,Corporate,39,Associate,122,38.81
+1071,Europe,Corporate,83,Associate,96,30.48
+1072,Europe,Corporate,69,Associate,82,34.31
+1073,Europe,Corporate,61,Associate,59,35.89
+1074,Europe,Private Equity,72,Associate,105,33.42
+1075,Asia,Corporate,146,Associate,32,19.39
+1076,Americas,Capital Markets,15,Associate,64,28.66
+1077,Asia,Capital Markets,138,Associate,98,39.74
+1078,Asia,Advisory,104,Associate,32,21.16
+1079,Americas,Advisory,27,Associate,128,38.50
+1080,Americas,Private Equity,46,Associate,49,18.75
+1081,Americas,Private Equity,1,Associate,80,33.37
+1082,Europe,Corporate,87,Associate,66,19.21
+1083,Asia,Capital Markets,132,Associate,61,29.24
+1084,Asia,Capital Markets,148,Associate,61,17.79
+1085,Europe,Private Equity,75,Associate,34,20.67
+1086,Europe,Capital Markets,54,Associate,96,28.65
+1087,Asia,Advisory,135,Associate,25,16.30
+1088,Asia,Advisory,105,Associate,84,25.30
+1089,Americas,Advisory,50,Associate,50,28.65
+1090,Europe,Private Equity,75,Associate,67,20.78
+1091,Europe,Corporate,83,Associate,98,32.93
+1092,Asia,Corporate,133,Associate,96,27.63
+1093,Europe,Private Equity,98,Associate,79,26.21
+1094,Asia,Corporate,126,Associate,39,19.09
+1095,Americas,Corporate,16,Associate,44,27.49
+1096,Americas,Corporate,49,Associate,127,40.14
+1097,Americas,Advisory,50,Associate,59,28.12
+1098,Europe,Private Equity,62,Associate,77,32.06
+1099,Americas,Private Equity,23,Associate,69,30.20
+1100,Asia,Corporate,116,Associate,117,50.21
+1101,Europe,Advisory,82,Associate,80,32.24
+1102,Asia,Private Equity,112,Associate,64,29.63
+1103,Asia,Corporate,125,Associate,40,16.95
+1104,Asia,Capital Markets,113,Associate,78,26.97
+1105,Europe,Capital Markets,53,Associate,69,35.61
+1106,Americas,Capital Markets,37,Associate,27,16.95
+1107,Europe,Private Equity,98,Associate,40,26.46
+1108,Europe,Capital Markets,94,Associate,69,30.04
+1109,Americas,Capital Markets,13,Associate,104,32.32
+1110,Americas,Advisory,50,Associate,98,28.24
+1111,Asia,Private Equity,142,Associate,38,15.54
+1112,Europe,Advisory,88,Associate,74,32.40
+1113,Americas,Private Equity,4,Associate,67,36.45
+1114,Asia,Corporate,145,Associate,32,18.15
+1115,Americas,Capital Markets,37,Associate,27,17.47
+1116,Asia,Private Equity,144,Associate,55,18.26
+1117,Europe,Private Equity,76,Associate,60,30.27
+1118,Americas,Advisory,36,Associate,106,33.91
+1119,Europe,Capital Markets,56,Associate,61,30.01
+1120,Americas,Private Equity,11,Associate,82,31.40
+1121,Americas,Capital Markets,29,Associate,89,41.06
+1122,Europe,Capital Markets,54,Associate,71,27.59
+1123,Americas,Private Equity,1,Associate,97,33.55
+1124,Americas,Corporate,34,Associate,34,16.53
+1125,Americas,Capital Markets,13,Associate,70,32.40
+1126,Americas,Capital Markets,22,Associate,97,33.51
+1127,Europe,Private Equity,75,Associate,54,19.51
+1128,Americas,Capital Markets,15,Associate,47,30.31
+1129,Americas,Private Equity,40,Associate,82,41.52
+1130,Asia,Capital Markets,118,Associate,81,28.37
+1131,Asia,Private Equity,144,Associate,39,17.14
+1132,Europe,Private Equity,71,Associate,59,35.01
+1133,Americas,Corporate,34,Associate,26,17.07
+1134,Europe,Corporate,61,Associate,110,32.53
+1135,Asia,Capital Markets,121,Associate,60,22.59
+1136,Europe,Advisory,88,Associate,54,34.66
+1137,Europe,Private Equity,62,Associate,57,32.62
+1138,Asia,Capital Markets,113,Associate,71,26.84
+1139,Europe,Capital Markets,56,Associate,53,30.19
+1140,Americas,Advisory,18,Associate,85,29.93
+1141,Europe,Capital Markets,99,Associate,68,28.24
+1142,Europe,Private Equity,68,Associate,108,35.59
+1143,Asia,Capital Markets,124,Associate,50,18.82
+1144,Asia,Private Equity,150,Associate,60,26.37
+1145,Europe,Advisory,55,Associate,87,31.01
+1146,Europe,Capital Markets,53,Associate,93,35.41
+1147,Americas,Private Equity,1,Associate,69,32.03
+1148,Europe,Private Equity,100,Associate,51,19.53
+1149,Americas,Advisory,27,Associate,66,39.33
+1150,Europe,Capital Markets,58,Associate,115,34.05
+1151,Asia,Capital Markets,119,Associate,38,17.78
+1152,Americas,Advisory,27,Associate,135,39.09
+1153,Asia,Private Equity,142,Associate,52,15.65
+1154,Americas,Corporate,49,Associate,118,39.06
+1155,Americas,Private Equity,23,Associate,93,29.09
+1156,Asia,Capital Markets,111,Associate,118,33.98
+1157,Americas,Advisory,35,Associate,48,31.93
+1158,Europe,Capital Markets,54,Associate,67,29.43
+1159,Europe,Advisory,52,Associate,65,34.57
+1160,Europe,Private Equity,62,Associate,60,32.55
+1161,Europe,Capital Markets,67,Associate,72,34.87
+1162,Americas,Advisory,19,Associate,67,38.60
+1163,Americas,Corporate,39,Associate,105,39.25
+1164,Americas,Private Equity,33,Associate,43,16.77
+1165,Europe,Advisory,91,Associate,33,17.97
+1166,Asia,Corporate,128,Associate,51,25.47
+1167,Asia,Private Equity,101,Associate,47,22.54
+1168,Americas,Private Equity,4,Associate,91,37.03
+1169,Asia,Advisory,135,Associate,34,16.71
+1170,Americas,Capital Markets,37,Associate,37,17.54
+1171,Americas,Corporate,45,Associate,28,18.21
+1172,Asia,Advisory,122,Associate,71,29.86
+1173,Asia,Private Equity,144,Associate,56,17.71
+1174,Asia,Advisory,114,Associate,66,20.23
+1175,Americas,Advisory,7,Associate,103,32.20
+1176,Americas,Capital Markets,2,Associate,77,26.73
+1177,Americas,Capital Markets,22,Associate,66,32.85
+1178,Asia,Private Equity,149,Associate,102,37.59
+1179,Europe,Private Equity,95,Associate,46,16.32
+1180,Asia,Advisory,137,Associate,102,34.24
+1181,Americas,Private Equity,48,Associate,60,28.75
+1182,Europe,Corporate,86,Associate,78,24.94
+1183,Asia,Corporate,140,Associate,75,28.47
+1184,Americas,Advisory,35,Associate,118,33.79
+1185,Americas,Private Equity,38,Associate,84,32.22
+1186,Americas,Corporate,49,Associate,108,38.59
+1187,Asia,Corporate,128,Associate,58,26.43
+1188,Europe,Private Equity,62,Associate,107,31.37
+1189,Asia,Private Equity,144,Associate,60,18.39
+1190,Asia,Corporate,123,Associate,74,24.31
+1191,Americas,Private Equity,40,Associate,98,39.59
+1192,Europe,Private Equity,76,Associate,50,30.96
+1193,Americas,Capital Markets,24,Associate,36,22.66
+1194,Europe,Corporate,64,Associate,108,34.32
+1195,Europe,Advisory,79,Associate,65,29.97
+1196,Americas,Capital Markets,29,Associate,63,38.31
+1197,Asia,Capital Markets,131,Associate,69,20.59
+1198,Europe,Advisory,84,Associate,48,24.45
+1199,Europe,Corporate,64,Associate,70,31.33
+1200,Asia,Corporate,130,Associate,141,41.24
+1201,Europe,Corporate,96,Associate,85,30.25
+1202,Americas,Advisory,19,Associate,109,39.65
+1203,Asia,Corporate,128,Associate,73,26.21
+1204,Asia,Corporate,120,Associate,75,30.34
+1205,Asia,Capital Markets,121,Associate,39,20.88
+1206,Asia,Capital Markets,138,Associate,72,38.80
+1207,Americas,Capital Markets,2,Associate,83,27.11
+1208,Europe,Corporate,96,Associate,76,32.89
+1209,Americas,Capital Markets,47,Associate,98,36.90
+1210,Europe,Corporate,83,Associate,74,30.40
+1211,Asia,Capital Markets,119,Associate,53,18.14
+1212,Asia,Corporate,140,Associate,75,27.96
+1213,Asia,Corporate,126,Associate,51,19.64
+1214,Asia,Corporate,126,Associate,37,20.15
+1215,Americas,Private Equity,4,Associate,112,36.61
+1216,Europe,Corporate,87,Associate,35,19.27
+1217,Europe,Corporate,83,Associate,76,30.46
+1218,Americas,Advisory,36,Associate,53,34.23
+1219,Europe,Capital Markets,56,Associate,47,30.74
+1220,Europe,Advisory,55,Associate,108,31.99
+1221,Europe,Advisory,59,Associate,101,34.94
+1222,Europe,Capital Markets,81,Associate,60,33.97
+1223,Europe,Advisory,88,Associate,70,35.35
+1224,Europe,Capital Markets,99,Associate,57,28.55
+1225,Asia,Private Equity,142,Associate,55,15.82
+1226,Asia,Corporate,129,Associate,74,24.33
+1227,Europe,Advisory,73,Associate,42,19.07
+1228,Americas,Advisory,27,Associate,88,40.16
+1229,Asia,Advisory,104,Associate,55,21.85
+1230,Asia,Capital Markets,119,Associate,50,16.77
+1231,Asia,Capital Markets,136,Associate,58,22.59
+1232,Americas,Corporate,34,Associate,33,16.19
+1233,Asia,Corporate,128,Associate,46,25.32
+1234,Asia,Advisory,141,Associate,68,25.44
+1235,Americas,Capital Markets,22,Associate,65,32.03
+1236,Asia,Private Equity,109,Associate,57,21.42
+1237,Europe,Capital Markets,78,Associate,76,25.18
+1238,Asia,Private Equity,142,Associate,52,15.87
+1239,Asia,Corporate,117,Associate,106,31.65
+1240,Asia,Capital Markets,136,Associate,45,21.48
+1241,Asia,Private Equity,150,Associate,48,27.36
+1242,Asia,Corporate,129,Associate,87,25.54
+1243,Europe,Private Equity,76,Associate,69,31.72
+1244,Asia,Capital Markets,118,Associate,61,26.80
+1245,Europe,Private Equity,92,Associate,72,34.84
+1246,Americas,Advisory,19,Associate,89,39.10
+1247,Americas,Capital Markets,2,Associate,64,28.33
+1248,Europe,Corporate,70,Associate,31,16.83
+1249,Europe,Corporate,96,Associate,92,31.38
+1250,Europe,Private Equity,71,Associate,112,32.80
+1251,Americas,Advisory,12,Associate,42,26.98
+1252,Americas,Advisory,50,Associate,59,26.48
+1253,Asia,Corporate,140,Associate,47,28.57
+1254,Europe,Advisory,89,Associate,88,33.52
+1255,Europe,Corporate,69,Associate,58,34.15
+1256,Asia,Corporate,125,Associate,57,17.15
+1257,Europe,Advisory,77,Associate,66,33.91
+1258,Americas,Private Equity,46,Associate,42,18.59
+1259,Americas,Advisory,27,Associate,109,41.44
+1260,Americas,Capital Markets,3,Associate,53,33.97
+1261,Europe,Advisory,84,Associate,73,25.38
+1262,Asia,Corporate,145,Associate,32,17.46
+1263,Europe,Advisory,59,Associate,89,35.06
+1264,Europe,Capital Markets,78,Associate,67,26.26
+1265,Americas,Capital Markets,41,Associate,101,35.87
+1266,Americas,Private Equity,43,Associate,74,29.82
+1267,Asia,Capital Markets,139,Associate,94,32.60
+1268,Europe,Corporate,96,Associate,87,30.78
+1269,Americas,Capital Markets,15,Associate,61,29.08
+1270,Europe,Advisory,73,Associate,52,19.77
+1271,Asia,Capital Markets,148,Associate,26,16.67
+1272,Europe,Corporate,64,Associate,55,33.09
+1273,Asia,Advisory,105,Associate,50,26.92
+1274,Asia,Advisory,114,Associate,55,19.99
+1275,Europe,Private Equity,76,Associate,70,32.14
+1276,Europe,Capital Markets,58,Associate,70,32.22
+1277,Asia,Private Equity,142,Associate,33,16.45
+1278,Europe,Advisory,73,Associate,64,20.57
+1279,Europe,Private Equity,62,Associate,81,30.33
+1280,Americas,Advisory,44,Associate,115,34.95
+1281,Europe,Advisory,59,Associate,54,35.22
+1282,Asia,Private Equity,112,Associate,49,30.00
+1283,Asia,Advisory,122,Associate,107,31.00
+1284,Asia,Private Equity,103,Associate,49,20.03
+1285,Europe,Advisory,73,Associate,46,20.04
+1286,Americas,Capital Markets,10,Associate,43,27.64
+1287,Asia,Corporate,146,Associate,53,19.37
+1288,Americas,Capital Markets,2,Associate,95,28.88
+1289,Europe,Advisory,77,Associate,52,31.85
+1290,Europe,Advisory,73,Associate,36,19.59
+1291,Asia,Private Equity,127,Associate,57,24.18
+1292,Europe,Corporate,96,Associate,104,30.99
+1293,Asia,Capital Markets,139,Associate,71,32.34
+1294,Americas,Capital Markets,24,Associate,40,22.29
+1295,Europe,Corporate,90,Associate,87,32.57
+1296,Europe,Capital Markets,94,Associate,99,31.55
+1297,Asia,Capital Markets,111,Associate,114,34.34
+1298,Asia,Corporate,130,Associate,118,40.72
+1299,Americas,Advisory,14,Associate,79,36.66
+1300,Americas,Capital Markets,13,Associate,72,30.80
+1301,Asia,Private Equity,147,Associate,44,25.76
+1302,Europe,Corporate,61,Associate,54,35.85
+1303,Asia,Private Equity,147,Associate,75,26.74
+1304,Americas,Private Equity,31,Associate,63,32.28
+1305,Americas,Capital Markets,25,Associate,64,39.92
+1306,Europe,Private Equity,95,Associate,27,16.32
+1307,Europe,Capital Markets,58,Associate,59,33.01
+1308,Asia,Private Equity,112,Associate,93,27.75
+1309,Asia,Private Equity,150,Associate,86,26.36
+1310,Europe,Corporate,90,Associate,77,32.92
+1311,Americas,Corporate,28,Associate,75,39.81
+1312,Asia,Private Equity,147,Associate,77,27.00
+1313,Europe,Advisory,91,Associate,55,18.63
+1314,Europe,Private Equity,80,Associate,54,16.33
+1315,Americas,Advisory,32,Associate,33,16.46
+1316,Americas,Advisory,44,Associate,122,36.33
+1317,Americas,Advisory,19,Associate,114,40.86
+1318,Europe,Private Equity,92,Associate,118,35.86
+1319,Europe,Private Equity,93,Associate,94,35.13
+1320,Asia,Corporate,126,Associate,38,20.42
+1321,Europe,Private Equity,95,Associate,26,16.20
+1322,Asia,Capital Markets,124,Associate,55,19.23
+1323,Americas,Advisory,14,Associate,72,36.64
+1324,Asia,Private Equity,127,Associate,50,24.88
+1325,Asia,Private Equity,134,Associate,69,28.41
+1326,Europe,Private Equity,98,Associate,68,25.53
+1327,Americas,Private Equity,38,Associate,103,34.66
+1328,Americas,Private Equity,43,Associate,85,28.35
+1329,Europe,Private Equity,100,Associate,62,19.71
+1330,Americas,Corporate,49,Associate,78,38.66
+1331,Asia,Corporate,130,Associate,82,41.68
+1332,Americas,Private Equity,33,Associate,26,15.90
+1333,Europe,Private Equity,80,Associate,45,16.39
+1334,Europe,Capital Markets,56,Associate,73,29.91
+1335,Americas,Capital Markets,13,Associate,72,32.76
+1336,Europe,Corporate,51,Associate,47,16.38
+1337,Americas,Capital Markets,8,Associate,58,31.08
+1338,Asia,Advisory,135,Associate,52,16.55
+1339,Europe,Corporate,70,Associate,29,16.18
+1340,Americas,Private Equity,11,Associate,69,28.52
+1341,Asia,Advisory,105,Associate,41,25.45
+1342,Asia,Private Equity,144,Associate,38,17.43
+1343,Europe,Corporate,87,Associate,58,19.79
+1344,Europe,Private Equity,80,Associate,49,15.82
+1345,Europe,Capital Markets,94,Associate,76,31.28
+1346,Europe,Private Equity,80,Associate,49,15.79
+1347,Asia,Capital Markets,115,Associate,106,31.34
+1348,Americas,Advisory,27,Associate,123,41.53
+1349,Asia,Corporate,125,Associate,35,17.35
+1350,Asia,Corporate,120,Associate,57,28.95
+1351,Americas,Advisory,6,Associate,26,15.51
+1352,Asia,Corporate,146,Associate,44,19.25
+1353,Europe,Private Equity,80,Associate,42,16.51
+1354,Europe,Private Equity,95,Associate,29,16.97
+1355,Asia,Capital Markets,113,Associate,75,25.87
+1356,Americas,Capital Markets,8,Associate,72,28.49
+1357,Americas,Private Equity,48,Associate,87,28.42
+1358,Europe,Private Equity,74,Associate,70,37.84
+1359,Europe,Private Equity,75,Associate,46,19.80
+1360,Americas,Corporate,26,Associate,99,35.25
+1361,Europe,Advisory,88,Associate,67,33.84
+1362,Europe,Private Equity,80,Associate,49,15.87
+1363,Europe,Private Equity,65,Associate,62,28.93
+1364,Europe,Corporate,51,Associate,47,17.08
+1365,Asia,Corporate,123,Associate,74,23.19
+1366,Asia,Advisory,141,Associate,41,26.06
+1367,Asia,Capital Markets,110,Associate,49,17.97
+1368,Asia,Capital Markets,121,Associate,49,20.60
+1369,Asia,Capital Markets,148,Associate,51,18.26
+1370,Asia,Advisory,105,Associate,77,25.68
+1371,Americas,Capital Markets,25,Associate,77,40.26
+1372,Americas,Advisory,36,Associate,99,33.29
+1373,Europe,Corporate,83,Associate,47,31.05
+1374,Asia,Capital Markets,138,Associate,72,37.61
+1375,Europe,Capital Markets,60,Associate,56,33.64
+1376,Americas,Capital Markets,15,Associate,70,29.77
+1377,Europe,Private Equity,100,Associate,38,19.06
+1378,Europe,Capital Markets,78,Associate,77,24.52
+1379,Europe,Advisory,55,Associate,48,30.13
+1380,Europe,Capital Markets,81,Associate,93,33.31
+1381,Americas,Private Equity,33,Associate,36,15.81
+1382,Americas,Capital Markets,24,Associate,54,23.55
+1383,Americas,Advisory,19,Associate,124,40.18
+1384,Asia,Advisory,141,Associate,59,26.18
+1385,Europe,Advisory,55,Associate,56,32.99
+1386,Asia,Capital Markets,136,Associate,44,21.70
+1387,Europe,Private Equity,66,Associate,35,16.92
+1388,Europe,Advisory,88,Associate,58,32.46
+1389,Asia,Private Equity,127,Associate,54,24.94
+1390,Asia,Private Equity,134,Associate,70,27.51
+1391,Americas,Corporate,49,Associate,101,37.37
+1392,Americas,Advisory,36,Associate,57,33.90
+1393,Americas,Capital Markets,24,Associate,58,22.64
+1394,Americas,Corporate,20,Associate,53,34.30
+1395,Asia,Corporate,140,Associate,72,28.88
+1396,Americas,Advisory,19,Associate,61,38.96
+1397,Asia,Corporate,133,Associate,45,26.17
+1398,Europe,Capital Markets,94,Associate,74,30.19
+1399,Asia,Private Equity,103,Associate,61,20.62
+1400,Europe,Private Equity,75,Associate,63,20.16
+1401,Europe,Corporate,86,Associate,82,26.33
+1402,Europe,Advisory,79,Associate,92,31.54
+1403,Europe,Corporate,61,Associate,89,33.03
+1404,Europe,Private Equity,71,Associate,122,35.21
+1405,Europe,Corporate,87,Associate,52,20.38
+1406,Americas,Capital Markets,24,Associate,60,23.43
+1407,Americas,Advisory,7,Associate,102,31.60
+1408,Americas,Private Equity,48,Associate,83,29.23
+1409,Asia,Capital Markets,124,Associate,61,19.14
+1410,Europe,Advisory,73,Associate,37,18.94
+1411,Asia,Advisory,104,Associate,48,21.42
+1412,Europe,Private Equity,95,Associate,32,16.77
+1413,Europe,Private Equity,95,Associate,31,17.41
+1414,Asia,Private Equity,127,Associate,81,25.74
+1415,Europe,Advisory,57,Associate,57,34.36
+1416,Americas,Capital Markets,15,Associate,47,29.22
+1417,Asia,Capital Markets,132,Associate,102,29.79
+1418,Americas,Advisory,7,Associate,93,29.26
+1419,Asia,Capital Markets,119,Associate,43,16.91
+1420,Europe,Corporate,85,Associate,43,27.75
+1421,Asia,Corporate,129,Associate,52,24.25
+1422,Americas,Capital Markets,8,Associate,70,28.59
+1423,Asia,Corporate,126,Associate,62,19.79
+1424,Europe,Private Equity,74,Associate,87,38.56
+1425,Asia,Advisory,105,Associate,42,26.97
+1426,Asia,Capital Markets,136,Associate,45,21.56
+1427,Europe,Capital Markets,81,Associate,87,33.48
+1428,Asia,Corporate,120,Associate,43,27.75
+1429,Europe,Private Equity,66,Associate,34,16.20
+1430,Europe,Capital Markets,56,Associate,63,29.94
+1431,Americas,Capital Markets,15,Associate,75,29.07
+1432,Americas,Capital Markets,41,Associate,110,35.23
+1433,Americas,Corporate,34,Associate,41,16.89
+1434,Asia,Private Equity,108,Associate,69,32.60
+1435,Europe,Corporate,64,Associate,70,33.23
+1436,Americas,Corporate,26,Associate,67,38.30
+1437,Asia,Advisory,105,Associate,81,25.75
+1438,Americas,Advisory,19,Associate,94,39.16
+1439,Asia,Advisory,135,Associate,26,16.92
+1440,Europe,Private Equity,62,Associate,92,30.42
+1441,Asia,Private Equity,149,Associate,58,35.75
+1442,Americas,Corporate,20,Associate,86,33.55
+1443,Europe,Private Equity,68,Associate,56,33.22
+1444,Asia,Capital Markets,139,Associate,108,32.52
+1445,Americas,Capital Markets,24,Associate,65,22.65
+1446,Americas,Corporate,34,Associate,44,16.93
+1447,Americas,Advisory,6,Associate,40,15.33
+1448,Americas,Capital Markets,37,Associate,34,16.38
+1449,Americas,Private Equity,9,Associate,62,40.73
+1450,Europe,Advisory,59,Associate,79,34.54
+1451,Europe,Capital Markets,58,Associate,51,33.72
+1452,Asia,Corporate,145,Associate,46,17.93
+1453,Americas,Private Equity,42,Associate,82,29.60
+1454,Americas,Corporate,16,Associate,61,28.31
+1455,Europe,Private Equity,65,Associate,81,29.87
+1456,Europe,Private Equity,80,Associate,44,16.11
+1457,Europe,Advisory,91,Associate,58,17.49
+1458,Europe,Capital Markets,81,Associate,92,32.25
+1459,Europe,Private Equity,71,Associate,98,34.18
+1460,Americas,Advisory,32,Associate,38,17.73
+1461,Asia,Advisory,104,Associate,39,22.26
+1462,Europe,Corporate,69,Associate,90,33.87
+1463,Asia,Capital Markets,143,Associate,65,35.75
+1464,Asia,Capital Markets,132,Associate,85,30.45
+1465,Europe,Capital Markets,67,Associate,63,34.94
+1466,Europe,Private Equity,62,Associate,59,30.83
+1467,Asia,Capital Markets,119,Associate,29,18.42
+1468,Europe,Corporate,86,Associate,46,24.49
+1469,Europe,Private Equity,71,Associate,88,32.89
+1470,Americas,Private Equity,31,Associate,87,33.24
+1471,Asia,Corporate,129,Associate,54,23.79
+1472,Europe,Private Equity,74,Associate,128,38.61
+1473,Asia,Corporate,130,Associate,123,40.41
+1474,Europe,Capital Markets,81,Associate,62,34.23
+1475,Europe,Advisory,55,Associate,110,31.34
+1476,Americas,Capital Markets,47,Associate,54,35.31
+1477,Europe,Advisory,52,Associate,87,35.34
+1478,Europe,Corporate,96,Associate,54,30.97
+1479,Americas,Advisory,32,Associate,30,17.60
+1480,Asia,Private Equity,127,Associate,72,24.27
+1481,Europe,Advisory,89,Associate,103,34.46
+1482,Americas,Capital Markets,41,Associate,114,37.21
+1483,Asia,Private Equity,109,Associate,67,21.10
+1484,Europe,Capital Markets,78,Associate,74,25.53
+1485,Europe,Corporate,90,Associate,113,34.03
+1486,Europe,Corporate,90,Associate,107,35.68
+1487,Europe,Private Equity,98,Associate,83,26.21
+1488,Americas,Private Equity,4,Associate,66,36.49
+1489,Asia,Advisory,114,Associate,30,18.98
+1490,Americas,Private Equity,31,Associate,51,31.92
+1491,Europe,Private Equity,66,Associate,45,15.54
+1492,Europe,Advisory,77,Associate,101,33.13
+1493,Americas,Capital Markets,41,Associate,97,35.08
+1494,Americas,Private Equity,42,Associate,96,30.96
+1495,Europe,Advisory,55,Associate,51,31.10
+1496,Asia,Private Equity,134,Associate,89,26.81
+1497,Asia,Corporate,125,Associate,29,16.28
+1498,Americas,Capital Markets,3,Associate,64,34.82
+1499,Europe,Private Equity,68,Associate,81,32.78
+1500,Americas,Advisory,18,Associate,84,29.23
